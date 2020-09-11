@@ -1,5 +1,5 @@
-# ST-ResNet-PyToch
-The implement of ST-ResNet in PyTorch.
+# ST-ResNet-PyTorch
+The implementation of ST-ResNet in PyTorch.
 
 **Paper**
 
